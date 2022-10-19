@@ -4,7 +4,7 @@
 In other languages:  
 [:uk:English](README.md) |  [:ru:Russian](README-RU.md)  
 
-##HUAWEI MateBook D 14 NbB-WAH9
+## HUAWEI MateBook D 14 NbB-WAH9
 | Device | Status |
 |----------------|:---------:|
 | Intel i5-10210U | :white_check_mark: |
