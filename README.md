@@ -1,5 +1,5 @@
-# HUAWEI MateBook D 14 NbB-WAH9 i5-10210U 8GB + 512GB with GeForce® MX 250 graphics card
-===========
+# HUAWEI MateBook D 14 NbB-WAH9
+
 
 In other languages:  
-[🇬🇧English](README.md) |  [🇷🇺Russian🇧](README-RU.md)  
+[🇬🇧English](README.md) |  [🇷🇺Russian](README-RU.md)  
