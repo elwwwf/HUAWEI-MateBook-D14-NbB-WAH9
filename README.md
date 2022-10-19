@@ -1,9 +1,6 @@
 # HUAWEI MateBook D 14 NbB-WAH9 hackintosh
 
 
-In other languages:  
-[:uk:English](README.md) |  [:ru:Russian](README-RU.md)  
-
 ### About HUAWEI MateBook D 14 NbB-WAH9
 | Device | Status |
 |----------------|:---------:|
@@ -20,12 +17,14 @@ In other languages:
 | Sound | :white_check_mark: |
 | HDMI | :white_check_mark: |
 | USB | :white_check_mark: |
+---
 
 
 ### How to install
 
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html
 
+---
 
 ### Notes
 - Change MLB, ROM etc. after installing macOS by using GenSMBIOS.
