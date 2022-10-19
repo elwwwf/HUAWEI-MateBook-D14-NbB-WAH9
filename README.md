@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# HUAWEI MateBook D 14 NbB-WAH9 i5-10210U 8GB + 512GB with GeForce® MX 250 graphics card
+===========
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+In other languages:  
+[🇬🇧English](README.md) |  [🇷🇺Russian🇧](README-RU.md)  
